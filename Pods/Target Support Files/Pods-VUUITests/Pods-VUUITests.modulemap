@@ -1,0 +1,6 @@
+framework module Pods_VUUITests {
+  umbrella header "Pods-VUUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,153 @@
+
+/* Class = "UILabel"; text = "Miss"; ObjectID = "0Ey-c0-kuV"; */
+"0Ey-c0-kuV.text" = "Miss";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "2Uu-H5-WVV"; */
+"2Uu-H5-WVV.normalTitle" = "+";
+
+/* Class = "UITabBarItem"; title = "Attendance"; ObjectID = "3w7-ka-hJz"; */
+"3w7-ka-hJz.title" = "Attendance";
+
+/* Class = "UILabel"; text = "%%%"; ObjectID = "4p6-hW-AQX"; */
+"4p6-hW-AQX.text" = "%%%";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Lb-zA-cui"; */
+"5Lb-zA-cui.text" = "Label";
+
+/* Class = "UILabel"; text = "You've no upcoming classes!"; ObjectID = "5dD-zQ-pfz"; */
+"5dD-zQ-pfz.text" = "You've no upcoming classes!";
+
+/* Class = "UILabel"; text = "Next Class"; ObjectID = "5t3-yT-tzn"; */
+"5t3-yT-tzn.text" = "Next Class";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "8fk-K0-j19"; */
+"8fk-K0-j19.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Overall Attendance"; ObjectID = "BNH-Dd-L1v"; */
+"BNH-Dd-L1v.text" = "Overall Attendance";
+
+/* Class = "UITabBarItem"; title = "Dashboard"; ObjectID = "COf-ap-tJu"; */
+"COf-ap-tJu.title" = "Dashboard";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Cg1-Qd-O0i"; */
+"Cg1-Qd-O0i.text" = "Label";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "D3d-f3-dD9"; */
+"D3d-f3-dD9.text" = "100";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "E73-TH-WtV"; */
+"E73-TH-WtV.text" = "Date";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "Ely-oU-cVK"; */
+"Ely-oU-cVK.text" = "Welcome";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "En7-1j-NRf"; */
+"En7-1j-NRf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N8j-Mt-3KY"; */
+"N8j-Mt-3KY.text" = "Label";
+
+/* Class = "UILabel"; text = "Operating Systems"; ObjectID = "NZH-5D-8tZ"; */
+"NZH-5D-8tZ.text" = "Operating Systems";
+
+/* Class = "UILabel"; text = "Attendance"; ObjectID = "QGY-sT-IXz"; */
+"QGY-sT-IXz.text" = "Attendance";
+
+/* Class = "UILabel"; text = "Never miss your classes"; ObjectID = "R3b-2R-uEg"; */
+"R3b-2R-uEg.text" = "Never miss your classes";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VRn-OY-qiY"; */
+"VRn-OY-qiY.text" = "Label";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "XSe-Lv-ZgT"; */
+"XSe-Lv-ZgT.text" = "Location";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "XiB-UF-BO9"; */
+"XiB-UF-BO9.text" = "0";
+
+/* Class = "UILabel"; text = "Slot Details"; ObjectID = "YM3-Go-XAb"; */
+"YM3-Go-XAb.text" = "Slot Details";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "Ycu-Sh-Iu0"; */
+"Ycu-Sh-Iu0.text" = "Time";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "Yp8-NK-ztF"; */
+"Yp8-NK-ztF.text" = "Time";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "ZW2-cT-AL2"; */
+"ZW2-cT-AL2.text" = "Code";
+
+/* Class = "UIButton"; normalTitle = "< Dashboard"; ObjectID = "ZZi-x1-fcE"; */
+"ZZi-x1-fcE.normalTitle" = "< Dashboard";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Zif-k4-raC"; */
+"Zif-k4-raC.text" = "Label";
+
+/* Class = "UILabel"; text = "Make sure your attendance is above 75%"; ObjectID = "aD3-BO-SZC"; */
+"aD3-BO-SZC.text" = "Make sure your attendance is above 75%";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "b3s-DV-cYn"; */
+"b3s-DV-cYn.text" = "Time";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cXy-GR-qMx"; */
+"cXy-GR-qMx.text" = "Label";
+
+/* Class = "UILabel"; text = "%%%"; ObjectID = "edr-E2-Q4z"; */
+"edr-E2-Q4z.text" = "%%%";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "esd-sO-6Ak"; */
+"esd-sO-6Ak.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "AM"; ObjectID = "giU-r2-TmU"; */
+"giU-r2-TmU.text" = "AM";
+
+/* Class = "UILabel"; text = "Prof. Padma Priya R."; ObjectID = "hLh-VF-ZZe"; */
+"hLh-VF-ZZe.text" = "Prof. Padma Priya R.";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "hSp-Sy-eMS"; */
+"hSp-Sy-eMS.text" = "0";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "jHi-3t-ubC"; */
+"jHi-3t-ubC.text" = "Location";
+
+/* Class = "UILabel"; text = "Done"; ObjectID = "lH5-cQ-IFJ"; */
+"lH5-cQ-IFJ.text" = "Done";
+
+/* Class = "UILabel"; text = "Operating Systems"; ObjectID = "mUL-1z-SBJ"; */
+"mUL-1z-SBJ.text" = "Operating Systems";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "p9m-Ca-R2Q"; */
+"p9m-Ca-R2Q.text" = "Location";
+
+/* Class = "UILabel"; text = "AM"; ObjectID = "rB9-tb-nCr"; */
+"rB9-tb-nCr.text" = "AM";
+
+/* Class = "UILabel"; text = "Attend"; ObjectID = "rSF-SX-rD2"; */
+"rSF-SX-rD2.text" = "Attend";
+
+/* Class = "UILabel"; text = "%%%"; ObjectID = "s7G-w1-Hvy"; */
+"s7G-w1-Hvy.text" = "%%%";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "ttC-3W-0Oi"; */
+"ttC-3W-0Oi.text" = "Dashboard";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "v1x-kp-USa"; */
+"v1x-kp-USa.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vTx-ka-2eW"; */
+"vTx-ka-2eW.text" = "Label";
+
+/* Class = "UILabel"; text = "Upcoming"; ObjectID = "wVJ-ck-33X"; */
+"wVJ-ck-33X.text" = "Upcoming";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wb3-Ad-oTl"; */
+"wb3-Ad-oTl.text" = "Label";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "wgH-aE-PGW"; */
+"wgH-aE-PGW.text" = "Code";
+
+/* Class = "UILabel"; text = "Attendance"; ObjectID = "xD9-zn-pJa"; */
+"xD9-zn-pJa.text" = "Attendance";
+
+/* Class = "UILabel"; text = "Operating Systems"; ObjectID = "xbr-aa-NG2"; */
+"xbr-aa-NG2.text" = "Operating Systems";
