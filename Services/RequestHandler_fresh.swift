@@ -289,7 +289,6 @@ class RequestsHandler_fresh {
             }.resume()
     }
     
-    
     func fetchExam(completion : @escaping (Int) -> ()) {
         print(examScheduleURL)
         URLSession.shared.dataTask(with: URL(string : examScheduleURL)!) { (data, response, error) in
